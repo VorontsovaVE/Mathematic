@@ -1,4 +1,6 @@
 # Mathematis
+<b>Группа 2ИСП11-20</b>
+<b>Воронцова Варвара Евгеньевна</b>
 <b>Результат:</b>
 
 ![image](https://github.com/VorontsovaVE/Mathematic/assets/126570601/84d11003-6432-4721-a2d7-5501f415553e)
